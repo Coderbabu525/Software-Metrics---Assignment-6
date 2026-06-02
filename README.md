@@ -76,8 +76,7 @@ software-metrics-system/
 ## 1. Clone this repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/software-metrics-system.git
-cd software-metrics-system
+git clone https://github.com/Coderbabu525/Software-Metrics---Assignment-6.git
 ```
 
 ## 2. Install dependencies
